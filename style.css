@@ -22,7 +22,7 @@ header {
     margin-top: 80px;
 }
 
-section .container {
+section .container { 
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -38,4 +38,13 @@ section .container {
 
 .qwe{
     margin-top: 300px;
+}
+.upto .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.upto_text, .upto_img{
+    width: 45%;
 }
