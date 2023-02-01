@@ -1,9 +1,13 @@
-.dropdown-menu
+
 
 .navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
+}
+.navbar-fixed-top{
+    position: fixed !important ;
 }
 .navbar-brand {
     margin-left: 10px;
@@ -17,6 +21,7 @@
 
 header {
     background-color: whitesmoke;
+    
 }
 .max_1 {
     margin-top: 80px;
